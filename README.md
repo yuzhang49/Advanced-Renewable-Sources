@@ -1,5 +1,5 @@
 # Advanced-Renewable-Sources
-This repository contains the lecture slides of ECE180j at UC Santa Cruz.
+This repository contains the lecture slides of ECE180j "Advanced Renewable Energy Sources" at UC Santa Cruz.
 
 Two main textbooks: 
 1) Renewable and Efficient Electric Power Systems (2nd Edition) by Gilbert M. Masters
